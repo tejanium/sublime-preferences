@@ -1,0 +1,67 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material One Dark.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.byebug_history"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".bundle",
+		"CVS",
+		"tmp",
+		"log",
+		"node_modules",
+		"data",
+		"public",
+		"distribution",
+		"_build",
+		"deps"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Six",
+		"Vintage",
+		"Vintageous"
+	],
+	"neovintageous_build_version": 11100,
+	"rulers":
+	[
+		120
+	],
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Material Flatland.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_ctrl_keys": null,
+	"vintageous_use_super_keys": null
+}

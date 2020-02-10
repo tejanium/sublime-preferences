@@ -1,0 +1,35 @@
+[
+    { "keys": ["super+f3"], "command": "goto_definition" },
+    { "keys": ["super+f1"], "command": "git_blame" },
+    // test current line
+    {
+      "keys": ["super+f7"],
+      "command": "test_current_line",
+      "context": [
+        {
+          "key": "selector",
+          "operator": "equal",
+          "operand": "source.ruby, source.rspec"
+        }
+      ]
+    },
+
+    // test current file
+    {
+      "keys": ["super+f8"],
+      "command": "test_current_file",
+      "context": [
+        {
+          "key": "selector",
+          "operator": "equal",
+          "operand": "source.ruby, source.rspec"
+        }
+      ]
+    },
+
+    // run last spec
+    { "keys": ["super+f9"], "command": "run_last_spec" },
+
+    // fuck above
+    { "keys": ["super+shift+t"], "command": "reopen_last_file" }
+]

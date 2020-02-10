@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Better CoffeeScript",
+		"CursorRuler",
+		"Directory Settings",
+		"EasyMotion",
+		"Elixir",
+		"Git",
+		"GitHubinator",
+		"Materialize",
+		"NeoVintageous",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"TestRSpec"
+	]
+}
